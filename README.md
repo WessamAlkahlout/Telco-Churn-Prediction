@@ -78,8 +78,6 @@ The default cutoff is 0.5. I used 0.25 so the model flags more possible churners
    python churn_model.py
    ```
 
-   Replace `churn_model.py` with the name of your script file.
-
 ## Tools
 
 Python, pandas, NumPy, Matplotlib, scikit-learn, XGBoost.
