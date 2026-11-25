@@ -53,7 +53,7 @@ The model catches 196 of the 296 customers who actually left.
 
 ## Why a 0.25 cutoff?
 
-The default cutoff is 0.5. I used 0.35 so the model flags more possible churners, because missing a customer who leaves usually costs a company more than a retention offer sent by mistake. The cost is more false alarms.
+The default cutoff is 0.5. I used 0.25 so the model flags more possible churners, because missing a customer who leaves usually costs a company more than a retention offer sent by mistake. The cost is more false alarms.
 
 ## Limitations
 
