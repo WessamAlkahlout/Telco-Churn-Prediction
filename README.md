@@ -74,6 +74,7 @@ The default cutoff is 0.5. I lowered it to 0.26 because missing a customer who l
 
    ```
    python churn_model.py
+   ```
  
 
 ## Tools
